@@ -1,0 +1,27 @@
+* {
+	font-family:Roboto;
+}
+
+#logo {
+	position:relative;
+	top: 120px;
+	right:-500px;
+}
+
+#youtube {
+	position:relative;
+	top: 130px;
+	right:-500px;
+}
+
+#google {
+	position:relative;
+	top: 130px;
+	right:-530px;
+}
+
+#duckduckgo {
+	position:relative;
+	top: 130px;
+	right:-560px;
+}
